@@ -6,8 +6,8 @@ The business objectives and goals of data analysis are pretty straightforward..
 
 2. Goals of data analysis: Your goals are divided into three sub-goals:      
 
-o Investment type analysis: Comparing the typical investment amounts in the  venture, seed, angel, private equity etc. so that Spark Funds can choose the type  that is best suited for their strategy.        
+   o Investment type analysis: Comparing the typical investment amounts in the  venture, seed, angel, private equity etc. so that Spark Funds can choose the type  that is best suited for their strategy.        
 
-o Country analysis: Identifying the countries which have been the most heavily  invested in the past. These will be Spark Funds’ favorites as well.         
+   o Country analysis: Identifying the countries which have been the most heavily  invested in the past. These will be Spark Funds’ favorites as well.         
 
-o Sector analysis: Understanding the distribution of investments across the eight  main sectors. (Note that we are interested in the eight 'main sectors' provided in  the mapping file. The two files — companies and rounds2 — have numerous  sub-sector names; hence, you will need to map each sub-sector to its main sector.)    
+   o Sector analysis: Understanding the distribution of investments across the eight  main sectors. (Note that we are interested in the eight 'main sectors' provided in  the mapping file. The two files — companies and rounds2 — have numerous  sub-sector names; hence, you will need to map each sub-sector to its main sector.)    
